@@ -1,0 +1,70 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AliPlayerSDK_iOS (5.1.5.1):
+    - AliPlayerSDK_iOS/AliPlayerSDK (= 5.1.5.1)
+  - AliPlayerSDK_iOS/AliPlayerSDK (5.1.5.1)
+  - AliyunOSSiOS (2.10.8)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - ObjectMapper (4.2.0)
+  - Result (4.1.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SnapKit (5.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+  - VODUpload (1.6.1):
+    - AliyunOSSiOS
+
+DEPENDENCIES:
+  - AliPlayerSDK_iOS
+  - Moya (= 13.0.1)
+  - ObjectMapper
+  - RxCocoa
+  - RxSwift
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON
+  - VODUpload
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AliPlayerSDK_iOS
+    - AliyunOSSiOS
+    - Moya
+    - ObjectMapper
+    - Result
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+    - VODUpload
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AliPlayerSDK_iOS: ab4d839dfda622b127e88c8cf3eb2ead4b62b139
+  AliyunOSSiOS: 8db92936545593b9e5c66d680ef2ac0738946651
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  VODUpload: 2c8ac654ceda839dda97a92023a270041dd9901e
+
+PODFILE CHECKSUM: 0b69ddc457c16d8cc266bdcf225a807a7c2d00e3
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Volumes/Panda/work2020/bailing/&#x963f;&#x91cc;&#x76f4;&#x64ad;/&#x963f;&#x91cc;&#x89c6;&#x9891;&#x64ad;&#x653e;/AliVedioDemo/AliVideoDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

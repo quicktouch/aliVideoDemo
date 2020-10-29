@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	client, err := alive.InitVodClient("LTAI4GGeHHg41xWxNbjs33bZ", "rqchBztXS5Hica70LojNhhoIJUgKHn")
+	client, err := alive.InitVodClient("xxx", "123")
 	if err != nil {
 		fmt.Print("初始化失败", err)
 		return

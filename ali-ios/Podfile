@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'AliVedioDemo' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'AliPlayerSDK_iOS'
+
+  
+  pod 'VODUpload'
+
+  pod "Moya", '13.0.1'
+  pod "SwiftyJSON"
+  pod "ObjectMapper"
+  pod "SVProgressHUD"
+  pod "RxSwift"
+  pod "RxCocoa"
+  pod "SnapKit"
+  pod 'AliPlayerSDK_iOS'
+
+end
